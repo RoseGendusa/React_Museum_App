@@ -1,4 +1,4 @@
-# React Rose Museum Ap
+# React Rose Museum App
 ### Used Tech and Libraries
 * React JS
 * Styled Components
