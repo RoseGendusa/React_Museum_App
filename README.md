@@ -1,5 +1,4 @@
-# React Rijks Museum Color to Art App
-
+# React Rose Museum Ap
 ### Used Tech and Libraries
 * React JS
 * Styled Components
